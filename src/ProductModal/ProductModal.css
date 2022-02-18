@@ -1,0 +1,21 @@
+.close-btn,
+.edit-btn {
+  padding: 5px;
+  width: 100px;
+  height: 30px;
+  background-color: #ecefff;
+  border: 1px solid rgb(161, 210, 216);
+  box-shadow: 6px 6px 6px rgba(143, 215, 233, 0.36);
+  border-radius: 20px;
+}
+.edit-btn {
+  margin-right: 20px;
+}
+input {
+  padding: 5px;
+  width: 300px;
+  height: 30px;
+  border-radius: 20px;
+  border: 1px solid rgb(161, 210, 216);
+  box-shadow: 6px 6px 6px rgba(143, 215, 233, 0.36);
+}
